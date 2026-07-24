@@ -1,0 +1,3 @@
+.DS_Store          # macOS system files
+node_modules/      # Large external code libraries
+.env               # Private API keys and passwords
